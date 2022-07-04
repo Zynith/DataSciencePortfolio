@@ -9,5 +9,6 @@ A collection of data science projects to demonstrate knowledge and skill sets on
 ## Dashboards
 ## Python Projects
 Skills: Data cleansing and Data Visualization
+
 Libraries: Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn
 ## SQL
