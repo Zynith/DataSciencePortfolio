@@ -10,5 +10,10 @@ A collection of data science projects to demonstrate knowledge and skill sets on
 ## Python Projects
 Skills: Data Cleansing, Data Wrangling and Data Visualization
 
+### In progress
+[Financial Analysis](https://github.com/Zynith/Financial-Analysis-Project)
+
+
+
 Libraries: Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn
 ## SQL
