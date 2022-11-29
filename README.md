@@ -8,14 +8,12 @@ A collection of data science projects to demonstrate knowledge and skill sets on
 ***
 ## Dashboards
 ## Python Projects
-Skills: Data Cleansing, Data Wrangling and Data Visualization
+Skills: Data Wrangling, Data Visualization, Exploratory Analysis and Predictive Analysis.
 
-Libraries: Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn
+Libraries: Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn, Statsmodels
 
-### In progress
-[Financial Analysis](https://github.com/Zynith/Financial-Analysis-Project)
-
-
-
+|Project Name|Area|Description|
+|------------|----|-----------|
+|[Astronauts Data Analysis|EDA|An analysis to acquire key insights of astonauts in the human space flight program at NASA from 1959 to 2013.| 
 
 ## SQL
